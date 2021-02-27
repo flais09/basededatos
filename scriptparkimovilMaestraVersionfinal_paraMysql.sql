@@ -1,3 +1,5 @@
+-- Código elaborado con erwin
+
 
 CREATE TABLE Carril
 (
